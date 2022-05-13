@@ -1,0 +1,15 @@
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\bin\Debug\net6.0\Basic_Command_Structure.exe
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\bin\Debug\net6.0\Basic_Command_Structure.deps.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\bin\Debug\net6.0\Basic_Command_Structure.runtimeconfig.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\bin\Debug\net6.0\Basic_Command_Structure.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\bin\Debug\net6.0\Basic_Command_Structure.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.csproj.AssemblyReference.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.AssemblyInfoInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.AssemblyInfo.cs
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.csproj.CoreCompileInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\refint\Basic_Command_Structure.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\Basic_Command_Structure.genruntimeconfig.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Basic_Command_Structure\Basic_Command_Structure\obj\Debug\net6.0\ref\Basic_Command_Structure.dll
