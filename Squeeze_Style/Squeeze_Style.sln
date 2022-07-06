@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squeeze_Style", "Squeeze_Style\Squeeze_Style.csproj", "{F6747AF2-724A-4326-8B6F-4F2A932691DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6747AF2-724A-4326-8B6F-4F2A932691DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6747AF2-724A-4326-8B6F-4F2A932691DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6747AF2-724A-4326-8B6F-4F2A932691DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6747AF2-724A-4326-8B6F-4F2A932691DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDE45CC-7B86-49AB-AFB2-46BE0E740BB7}
+	EndGlobalSection
+EndGlobal

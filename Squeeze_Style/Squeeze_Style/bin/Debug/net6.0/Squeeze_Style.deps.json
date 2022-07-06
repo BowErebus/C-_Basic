@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Squeeze_Style/1.0.0": {
+        "runtime": {
+          "Squeeze_Style.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Squeeze_Style/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

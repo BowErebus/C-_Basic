@@ -1,0 +1,15 @@
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\bin\Debug\net6.0\Squeeze_Style.exe
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\bin\Debug\net6.0\Squeeze_Style.deps.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\bin\Debug\net6.0\Squeeze_Style.runtimeconfig.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\bin\Debug\net6.0\Squeeze_Style.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\bin\Debug\net6.0\Squeeze_Style.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.csproj.AssemblyReference.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.AssemblyInfoInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.AssemblyInfo.cs
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.csproj.CoreCompileInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\refint\Squeeze_Style.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\Squeeze_Style.genruntimeconfig.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Squeeze_Style\Squeeze_Style\obj\Debug\net6.0\ref\Squeeze_Style.dll
