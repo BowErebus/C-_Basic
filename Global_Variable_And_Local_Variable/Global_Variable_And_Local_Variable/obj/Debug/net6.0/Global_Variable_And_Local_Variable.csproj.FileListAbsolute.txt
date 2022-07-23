@@ -1,0 +1,15 @@
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.csproj.AssemblyReference.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.AssemblyInfoInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.AssemblyInfo.cs
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.csproj.CoreCompileInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\bin\Debug\net6.0\Global_Variable_And_Local_Variable.exe
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\bin\Debug\net6.0\Global_Variable_And_Local_Variable.deps.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\bin\Debug\net6.0\Global_Variable_And_Local_Variable.runtimeconfig.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\bin\Debug\net6.0\Global_Variable_And_Local_Variable.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\bin\Debug\net6.0\Global_Variable_And_Local_Variable.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\refint\Global_Variable_And_Local_Variable.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\Global_Variable_And_Local_Variable.genruntimeconfig.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Global_Variable_And_Local_Variable\Global_Variable_And_Local_Variable\obj\Debug\net6.0\ref\Global_Variable_And_Local_Variable.dll

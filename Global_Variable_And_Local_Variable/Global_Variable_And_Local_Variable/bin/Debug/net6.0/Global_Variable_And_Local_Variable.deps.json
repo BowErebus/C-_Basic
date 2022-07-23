@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Global_Variable_And_Local_Variable/1.0.0": {
+        "runtime": {
+          "Global_Variable_And_Local_Variable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Global_Variable_And_Local_Variable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
