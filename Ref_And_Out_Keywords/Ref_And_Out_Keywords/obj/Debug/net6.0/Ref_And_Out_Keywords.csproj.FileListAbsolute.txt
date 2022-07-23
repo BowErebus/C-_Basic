@@ -1,0 +1,15 @@
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\bin\Debug\net6.0\Ref_And_Out_Keywords.exe
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\bin\Debug\net6.0\Ref_And_Out_Keywords.deps.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\bin\Debug\net6.0\Ref_And_Out_Keywords.runtimeconfig.json
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\bin\Debug\net6.0\Ref_And_Out_Keywords.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\bin\Debug\net6.0\Ref_And_Out_Keywords.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.csproj.AssemblyReference.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.AssemblyInfoInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.AssemblyInfo.cs
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.csproj.CoreCompileInputs.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\refint\Ref_And_Out_Keywords.dll
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.pdb
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\Ref_And_Out_Keywords.genruntimeconfig.cache
+E:\Program Files\VisualStudio2022\Source\Code\C#\Ref_And_Out_Keywords\Ref_And_Out_Keywords\obj\Debug\net6.0\ref\Ref_And_Out_Keywords.dll
